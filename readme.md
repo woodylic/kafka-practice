@@ -8,7 +8,7 @@
 
 1. 下载和解压
 
-- [ ] 下载kafka_2.11-2.1.0 [下载页面](http://kafka.apache.org/downloads)
+- [X] 下载kafka_2.11-2.1.0 [下载页面](http://kafka.apache.org/downloads)
 - [ ] 解压至本地目录，如C:\kafka，下面以$KAFKA_HOME表示。
 
 2. 启动kafka
